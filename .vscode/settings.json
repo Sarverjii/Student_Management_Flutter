@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "D:/Work/Flutter/Tutorial/first_app/linux/flutter"
+    "cmake.sourceDirectory": "D:/Work/Flutter/Tutorial/first_app/linux/flutter",
+    "java.configuration.updateBuildConfiguration": "automatic"
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721866067073",
+    "project_id": "jnustudents-2effc",
+    "storage_bucket": "jnustudents-2effc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721866067073:android:4814d3f9caee221b0ed180",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5ANFAY9s01GIygWvzu1XP_dXiksBwEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
